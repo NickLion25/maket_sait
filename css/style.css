@@ -1,0 +1,186 @@
+body{padding: 0;margin: 0; font-family:Myriad Pro, sans-serif;}
+
+div{box-sizing: border-box;}
+
+.container {
+  width: 1090px;height: auto;
+  margin: 0 auto;
+}
+
+.nav-menu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top:0;
+}
+
+.nav-menu__item {
+  display: flex;
+  margin: 0px 60px;
+}
+
+.nav-menu__item a {
+  text-decoration: none;
+  color: #cecece;
+}
+
+.nav-menu__item .active {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-menu__item_logo {
+  display: block;
+  
+}
+
+.nav-menu__item.logo {
+  position: absolute;
+    top: 0;}
+h1{
+    font-size: 44px;
+    color: black;
+    text-align: center;
+    margin-top: 300px;
+    line-height:16px;
+    
+}
+.title_first{
+    font-size: 16px;
+    color: #cecece;
+    text-align: center;
+    font-style: italic;
+}
+.wrapBtn{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+    margin-top: 30px;
+}
+.buttom{
+    background: white;
+    color: black;
+    padding: 30px 50px;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-weight: bold;
+    border: 1px solid black;
+}
+.wrapCircl{
+    flex-direction: column
+}
+.circle{
+	width: 10px;
+	height:10px;
+    border-radius: 50%;
+	margin: 10px 0;
+   }
+.circle_2{
+    background: #f0f0f0;
+}
+.circle_2 {
+	background: #e0e0e0;
+   }
+.circle_3 {
+	background:#d0d0d0;
+}
+
+.conteiner_second{
+     background:black;
+  min-height:1415px;
+    margin-top: 93px;}
+
+
+.wrapp{
+    width: 600px;
+    height: 800px;
+    position: absolute;
+    left:20px;
+}
+    
+    
+    
+.block{
+    width: 500px;
+    height:auto;
+   
+    margin-top: 100px;
+    position: absolute;
+   left:  20px;
+}
+.ff11{
+    text-align:right;
+    font-size:48px;
+    color: white;
+      padding:  10px;
+    margin-bottom: 28px;
+}
+.text{
+    color: white;
+    font-size: 15px;
+    position: relative;
+    word-wrap:break-word;
+    text-align:right;
+}
+.block2{
+     width: 500px;
+    height: 200px;
+    margin-top: 100px;
+    position: absolute;
+    left:20px;
+    margin-top: 400px;
+   
+}
+
+.topr{
+     width: 600px;
+    height: 800px;
+    position: absolute;
+    right:20px;
+    padding-top: 150px;
+}
+.right{
+     text-align:left;
+    
+}
+.ter{
+    text-align:left;
+}
+.black{
+    position: absolute; right: -285px; bottom:-1500px;
+margin-top: 280px;}
+.white{ position: absolute; right: -285px; bottom:-1520px}
+h2{
+    font-size: 34px;
+    color: black;
+    text-align: center;
+    margin-top: 300px;
+    line-height:16px;
+    margin-top: 120px;
+}
+.title_second{
+     font-size: 16px;
+    color: #cecece;
+    text-align: center;
+    font-style: italic;
+}
+    
+
+
+   
+  
+
+
+
+     
+    
+
+    
+    
+    
+    
+   
+   
+
+    
